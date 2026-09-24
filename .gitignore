@@ -1,0 +1,18 @@
+# Data, external model databases and generated outputs are not part of this release.
+*.xlsx
+*.xls
+*.csv
+*.mat
+*.sldd
+*.mldatx
+*.slxc
+*.db
+*.sqlite*
+*.asv
+*.log
+*.mex*
+src/out/
+data/
+Data/
+slprj/
+src/slprj/

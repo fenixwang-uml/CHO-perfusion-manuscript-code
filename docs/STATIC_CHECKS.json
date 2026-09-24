@@ -1,0 +1,28 @@
+{
+  "files": 31,
+  "database_files": 0,
+  "unresolved_DT_symbol_dependencies": [],
+  "type_definitions_exported": [
+    "Flow",
+    "mMconc",
+    "Xvconc",
+    "gconc",
+    "Volume",
+    "Stream",
+    "Vessel",
+    "AA",
+    "conc",
+    "K"
+  ],
+  "runtime_tested": false,
+  "slx_audit": [
+    {
+      "file": "src\\DT_GeneralFSM.slx",
+      "embedded_measurement_database_files": 0
+    },
+    {
+      "file": "src\\DTLib\\DT_Library.slx",
+      "embedded_measurement_database_files": 0
+    }
+  ]
+}

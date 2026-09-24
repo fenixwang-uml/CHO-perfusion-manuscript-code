@@ -1,0 +1,165 @@
+[
+  {
+    "file": "src/DT_run.m",
+    "source_sha256": "cfa9f725a792015b1d3ada16f6513e2dda9bf784eea0f4ce29357baaa4700fbb",
+    "changes": [
+      "Dataset menus replaced by a single user-supplied study workbook path.",
+      "Parameter workbook lookup replaced by the manuscript-only parameter function."
+    ],
+    "distributed_sha256": "9115bdbcb638ab4eb604fa8d17746c34e35d26f5a9000a56a1630426b34c8ba6"
+  },
+  {
+    "file": "src/DT_run_ParaEst.m",
+    "source_sha256": "a138a8dc54c124739c64d26b42a9e6f0483e1bcadde4c589f8502fb3a0bf9178",
+    "changes": [
+      "Dataset menus replaced by a single user-supplied study workbook path.",
+      "Parameter workbook lookup replaced by the manuscript-only parameter function."
+    ],
+    "distributed_sha256": "b629b394e8a8284c4388ce6a0644e024b27d59a8c8d262b3decefb0202c1458b"
+  },
+  {
+    "file": "src/DT_Run_GSA.m",
+    "source_sha256": "17abf5e8047688473347b71e6601dc45db73fe3896d072cf2e94608085a456fa",
+    "changes": [
+      "Dataset menus replaced by a single user-supplied study workbook path.",
+      "Parameter workbook lookup replaced by the manuscript-only parameter function."
+    ],
+    "distributed_sha256": "170be0894d79142be478828c666c04eff7918d5cc35f106315170967c93c9ed6"
+  },
+  {
+    "file": "src/DT_run_OptimizeCOGs.m",
+    "source_sha256": "1e40dfa61c86d37bf45d65dbf75f91f78925aa41ccb3ceaa958c64d342301b10",
+    "changes": [
+      "Parameter workbook lookup replaced by the manuscript-only parameter function."
+    ],
+    "distributed_sha256": "c7c9c822e0b90137fc8cad461ff05234570b27cb379340cb7fbb1a1732289c1f"
+  },
+  {
+    "file": "src/DT_COGobj.m",
+    "source_sha256": "c5db9fb4887573a25a5cb27fe28615c4c1bd1132f88e9f0b2e7784a56095397e",
+    "changes": [
+      "No executable changes; distribution header added."
+    ],
+    "distributed_sha256": "dd74417a95d22b96223e40aa8e112010a94edee280aec112d5f087e2c60f92bf"
+  },
+  {
+    "file": "src/DT_generatedata.m",
+    "source_sha256": "8a77ab824aa70a0d9e1722ed50ee253e0bbd1a094d6db98ec50039f7f7588404",
+    "changes": [
+      "No executable changes; distribution header added."
+    ],
+    "distributed_sha256": "564f4709dd057460ea5432dae1970f46385bdcebe7831ddcaa1ec946b12c4204"
+  },
+  {
+    "file": "src/DT_kinetic.m",
+    "source_sha256": "06efc8d2175ad0aa817eeae9579444f4e004f0c094d40f5439a790adcd4c9453",
+    "changes": [
+      "No executable changes; distribution header added."
+    ],
+    "distributed_sha256": "9718743033b569861c572aa79a52e21840de036aa8edc0a3e4c0f5bf905fc0ce"
+  },
+  {
+    "file": "src/DT_VesselCalc.m",
+    "source_sha256": "4607abbd350935daa5fb6fdd2634657547f0fe07ec499869a93f7317cf3643da",
+    "changes": [
+      "No executable changes; distribution header added."
+    ],
+    "distributed_sha256": "a1f65cf43a2ab52557714c1c7db0e5b22850956244c12e3aad0a106ed51ea8b6"
+  },
+  {
+    "file": "src/DT_cellretention.m",
+    "source_sha256": "daa646b29e31daaeadbbace92761b622eeb98aae0834d836f174d178f2a734db",
+    "changes": [
+      "No executable changes; distribution header added."
+    ],
+    "distributed_sha256": "ebfb98ec9300180ad5ca5cfe14402660b1cba38e4fa2bd18c1b7f70284f79db1"
+  },
+  {
+    "file": "src/DT_splitstream.m",
+    "source_sha256": "647394ec152afe38a7d83ea140f2154fbc314d985d7bd4e6cd3392fc0ca075d2",
+    "changes": [
+      "No executable changes; distribution header added."
+    ],
+    "distributed_sha256": "a2e3c19b97c7f699704dfd1ae01a971f474b64497c2257fc78d787552aac6a04"
+  },
+  {
+    "file": "src/DT_streamjoin.m",
+    "source_sha256": "d968dbacb9ed0d14efd9e35674082ce707dfb524f1e59469192d11d6784ac625",
+    "changes": [
+      "No executable changes; distribution header added."
+    ],
+    "distributed_sha256": "08d6bd73ef7a8e2bd1edce0bd1ff707e7a9c1fa6149860b254beac9db86a5a85"
+  },
+  {
+    "file": "src/DT_gsmodel.m",
+    "source_sha256": "459d36d47c88896d146dee86a4852c2a4a047a627c78ede1a927f2d4a46c09fb",
+    "changes": [
+      "No executable changes; distribution header added."
+    ],
+    "distributed_sha256": "670c92e0d9e0446a16859f1ca4e13232657dbb8f11c54af22b67829bac5f7574"
+  },
+  {
+    "file": "src/DT_readdata.m",
+    "source_sha256": "630515a99b899340b43ee347f5b6f361c8ee7035d012ca626dfb4da73ac309fb",
+    "changes": [
+      "Header-name mapping exported to code; no header workbook is required."
+    ],
+    "distributed_sha256": "e6f371e6f5c3e83492f46a69ecfb8efcb550cb0f80e4a0c403f58509a58a4c45"
+  },
+  {
+    "file": "src/DT_make_ts_without_nans.m",
+    "source_sha256": "d8c7dc2abf07b95b738f6c567319ca2d72f3a8357d3a276b84840176b5ab648a",
+    "changes": [
+      "No executable changes; distribution header added."
+    ],
+    "distributed_sha256": "b4e5eab816aa321cc0c51b9bf3a37e5a83df71d5fd496db8f2d220aec2ebca72"
+  },
+  {
+    "file": "src/DT_paraestobjfn.m",
+    "source_sha256": "9907fb505261fb5652c1a8ad654d32c1735dacbab3b5a49725f672174fbfbe70",
+    "changes": [
+      "No executable changes; distribution header added."
+    ],
+    "distributed_sha256": "f05e87acb244a25875721d5a1f9335b2b7ed53df118f31855104c3b9cf1e8a41"
+  },
+  {
+    "file": "src/DT_objfunctionwrap.m",
+    "source_sha256": "b641388189a3a5b10dcc1370435043d23a3e81f2e53e9b7c09258fb520fc022c",
+    "changes": [
+      "No executable changes; distribution header added."
+    ],
+    "distributed_sha256": "8d6539e0f982045b7b3cfad24c0aab8c197ac389fea4d9a0a3d61bd6ba5cc29b"
+  },
+  {
+    "file": "src/DT_plotout.m",
+    "source_sha256": "2e023a8f4a3b726bf9b6a3a8fd307d2f07c4cf6a7968cef89fa651c391851951",
+    "changes": [
+      "No executable changes; distribution header added."
+    ],
+    "distributed_sha256": "5ccf477414566ae5e4ac814e5f3994ed4c3ef5700ff886717b8c0632c94cfe05"
+  },
+  {
+    "file": "src/DT_GeneralFSM.slx",
+    "source_sha256": "97967ef2b00565b0a7ec2b69ae16d0a0e2ef0ddc62584ba120a03c3286dcfca3",
+    "changes": [
+      "Copied without modification."
+    ],
+    "distributed_sha256": "97967ef2b00565b0a7ec2b69ae16d0a0e2ef0ddc62584ba120a03c3286dcfca3"
+  },
+  {
+    "file": "src/DTLib/DT_Library.slx",
+    "source_sha256": "e3992cb05c38975baf465e0eb0c35a5c511d595b17c7567135dec6d0bc4aad7e",
+    "changes": [
+      "Copied without modification."
+    ],
+    "distributed_sha256": "e3992cb05c38975baf465e0eb0c35a5c511d595b17c7567135dec6d0bc4aad7e"
+  },
+  {
+    "file": "src/DTLib/slblocks.m",
+    "source_sha256": "5fad0617f9b83970c9cbf74458eb55a1e70ea29cdb2765aedbc79125d5052320",
+    "changes": [
+      "Copied without modification."
+    ],
+    "distributed_sha256": "5fad0617f9b83970c9cbf74458eb55a1e70ea29cdb2765aedbc79125d5052320"
+  }
+]
